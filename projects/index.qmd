@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+Here is an overview of my research projects.
+
+---
+
+<div class="project-card">
+
+### [Self-supervised EEG pretraining amplifies individual differences in neural representations](SSL_intersubject.qmd)
+
+*ICLR Re-Align Workshop 2026*
+
+
+</div>
+
+<!--
+  Duplicate the project-card block above for each new project.
+  Create a corresponding .qmd file in this folder for each one.
+-->

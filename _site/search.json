@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laurine Marty",
+    "section": "",
+    "text": "Hi there !\nI’m a PhD student in the NeuroAI team at the Machine Learning Research Unit at TU Wien, where I’ve been working since September 2025 under the supervision of Guillaume Bellec . My research sits at the intersection of machine learning and neuroscience, with a focus on how deep learning can be adapted to better understand brain mechanisms.\nI’m particularly interested in how theoretical neuroscience studies the dynamical organization of neural activity, and how latent dynamics relate to circuit structure and task complexity. My goal (modestly) would to bring these insights into self-supervised learning approaches for e-phys data.\nI would be pleased to chat about anything manifolds-related (or even loosely related, or not related at all), feel free to reach out, the contact button is just here.\n→ See my projects | → Contact me"
+  },
+  {
+    "objectID": "projects/SSL_intersubject.html",
+    "href": "projects/SSL_intersubject.html",
+    "title": "Self-supervised EEG pretraining amplifies individual differences in neural representations",
+    "section": "",
+    "text": "Self-supervised learning can be leveraged to build generalized representations from massive and heterogeneous datasets. In the case of neural data, trained models have been shown to generalize across domains, thus sometimes called foundation models. Generalization is typically measured with downstream decoding of behavior, such as movements. Here, we replicate these benchmarks and provide a complementary evaluation to existing benchmarks for NeuroGPT, a foundation model of electroencephalography (EEG). Using simultaneous recording of EEG and BOLD signals over 18 human subjects, we test (1) the extent to which the model captures subject-specific idiosyncrasies, and (2) whether the model EEG embeddings improve the prediction of simultaneously recorded BOLD signals. We find that NeuroGPT embeddings reliably amplify individual idiosyncrasies and improve BOLD prediction relative to raw EEG and randomly initialized models. These results suggest that self-supervised pre-training enriches, rather than homogenizes, subject-level representational structure that can be leveraged to align different data modalities."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: laurine.marty@tuwien.ac.at\nOffice: Floor 2, Erzherzog-Johann-Platz 1, TU Wien, Vienna, Austria\n\nGitHub\nLinkedIn\nBlueSky"
+  },
+  {
+    "objectID": "projects/SSL_intersubject.html#summary",
+    "href": "projects/SSL_intersubject.html#summary",
+    "title": "Self-supervised EEG pretraining amplifies individual differences in neural representations",
+    "section": "",
+    "text": "Self-supervised learning can be leveraged to build generalized representations from massive and heterogeneous datasets. In the case of neural data, trained models have been shown to generalize across domains, thus sometimes called foundation models. Generalization is typically measured with downstream decoding of behavior, such as movements. Here, we replicate these benchmarks and provide a complementary evaluation to existing benchmarks for NeuroGPT, a foundation model of electroencephalography (EEG). Using simultaneous recording of EEG and BOLD signals over 18 human subjects, we test (1) the extent to which the model captures subject-specific idiosyncrasies, and (2) whether the model EEG embeddings improve the prediction of simultaneously recorded BOLD signals. We find that NeuroGPT embeddings reliably amplify individual idiosyncrasies and improve BOLD prediction relative to raw EEG and randomly initialized models. These results suggest that self-supervised pre-training enriches, rather than homogenizes, subject-level representational structure that can be leveraged to align different data modalities."
+  },
+  {
+    "objectID": "projects/SSL_intersubject.html#poster",
+    "href": "projects/SSL_intersubject.html#poster",
+    "title": "Self-supervised EEG pretraining amplifies individual differences in neural representations",
+    "section": "Poster",
+    "text": "Poster\n\n\n\nProject poster\n\n\nDownload poster (PDF)"
+  },
+  {
+    "objectID": "projects/SSL_intersubject.html#paper",
+    "href": "projects/SSL_intersubject.html#paper",
+    "title": "Self-supervised EEG pretraining amplifies individual differences in neural representations",
+    "section": "Paper",
+    "text": "Paper\nDownload paper (PDF) ## Authors\nICLR Re-Align Workshop 2026 · Laurine Marty1, Michael Pereira2, Guillaume Bellec1,\nJoao Barbosa3\n1 Machine Learning Research Unit & Neuromodulation Institute, TU Wien,\nVienna, Austria\n2 Grenoble Institut Neurosciences, Univ. Grenoble Alpes, Inserm, Grenoble, France\n3 Neuromodulation Institute & NeuroSpin, Inserm, Paris, France"
+  },
+  {
+    "objectID": "projects/SSL_intersubject.html#authors",
+    "href": "projects/SSL_intersubject.html#authors",
+    "title": "Self-supervised EEG pretraining amplifies individual differences in neural representations",
+    "section": "Authors",
+    "text": "Authors\nICLR Re-Align Workshop 2026 · Laurine Marty1, Michael Pereira2, Guillaume Bellec1,\nJoao Barbosa3\n1 Machine Learning Research Unit & Neuromodulation Institute, TU Wien,\nVienna, Austria\n2 Grenoble Institut Neurosciences, Univ. Grenoble Alpes, Inserm, Grenoble, France\n3 Neuromodulation Institute & NeuroSpin, Inserm, Paris, France"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is an overview of my research projects.\n\n\nSelf-supervised EEG pretraining amplifies individual differences in neural representations\nICLR Re-Align Workshop 2026"
+  }
+]
