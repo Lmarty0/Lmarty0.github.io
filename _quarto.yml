@@ -27,6 +27,10 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="Ck7euak3bY43uBUd2WAdoWP_7flkF4U42f5TsR69Zwg" />
+
 
 
 
