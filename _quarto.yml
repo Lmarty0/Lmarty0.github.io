@@ -6,6 +6,14 @@ project:
     - "projects/*.qmd"
     - "!about.qmd"
 
+metadata:
+  keywords:
+    - "spiking neural network"
+    - "PhD TU Wien"
+    - "NeuroAI"
+    - "Connectivity"
+    - "Computational neurosciences"
+
 
 website:
   title: "Laurine Marty"
